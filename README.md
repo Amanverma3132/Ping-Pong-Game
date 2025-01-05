@@ -17,8 +17,8 @@ This project demonstrates a Hand Gesture Controlled Ping Pong Game, where player
 **Programming Language**: Python
 
 **Libraries Used**:
-OpenCV: For image processing and hand detection.
-NumPy: For efficient numerical computations.
+1. OpenCV: For image processing and hand detection.
+2. NumPy: For efficient numerical computations.
 
 ### How It Works
 1. The webcam captures real-time video input.
